@@ -7,8 +7,14 @@ this is web service created using dropwizard Java framework. The service is used
 Launch the Application, and open web browzer
 
 The problem is defined as: 
+
+
 Method: POST and set the header Accept:application/json & Content-Type: application/json.
+
+
 URL: http://localhost:8080/rest/service?maxImpressions=32356000
+
+
 Body: 
 [
     {
@@ -48,7 +54,10 @@ Body:
     }
 ]
 
+
 SEND THE REQUEST TO THE dropwizard SERVICE. 
+
+
 
 Please Note: 
 for simplicity purposes, I have choosen to send the maximum impression per month in the URL,
