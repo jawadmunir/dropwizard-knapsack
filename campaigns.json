@@ -1,0 +1,37 @@
+[
+  {
+    "customer": "Acme",
+    "impressionsPerCampaign": 2000000,
+    "valuePerCampaign": 200
+  },
+  {
+    "customer": "Lorem",
+    "impressionsPerCampaign": 3500000,
+    "valuePerCampaign": 400
+  },
+  {
+    "customer": "Ipsum",
+    "impressionsPerCampaign": 2300000,
+    "valuePerCampaign": 210
+  },
+  {
+    "customer": "Dolor",
+    "impressionsPerCampaign": 8000000,
+    "valuePerCampaign": 730
+  },
+  {
+    "customer": "SIT",
+    "impressionsPerCampaign": 10000000,
+    "valuePerCampaign": 1000
+  },
+  {
+    "customer": "Amet",
+    "impressionsPerCampaign": 1500000,
+    "valuePerCampaign": 160
+  },
+  {
+    "customer": "Mauris",
+    "impressionsPerCampaign": 1000000,
+    "valuePerCampaign": 100
+  }
+]

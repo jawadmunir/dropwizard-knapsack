@@ -15,7 +15,8 @@ Method: POST and set the header Accept:application/json & Content-Type: applicat
 URL: http://localhost:8080/rest/service?maxImpressions=32356000
 
 
-Body: 
+Body:
+
 [
     {
         "customer": "Acme",
