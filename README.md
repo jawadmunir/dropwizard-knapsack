@@ -29,7 +29,7 @@ the variable "maxImpressions=32356000". So to change monthly quota for maximum i
 For example if monthly quota is: 50000000 for the same campaigns.json the url will be: 
 URL: http://localhost:8080/rest/service?maxImpressions=50000000
 
-
+This problem of finding the best possible mix of campaigns for maximum revenue, is the famous Unbounded KnapSack Problem with duplicate items allowed. The problem is addressed by using dynamic programming approach by calculating the sub optimal knapsacks, until getting the best solution.   
 
 
 
