@@ -1,5 +1,5 @@
 # dropwizard-knapsack
-The home assignment for Ooyala, i.e. dropwizard rest service for selling online video advertisements. 
+The home assignment i.e. dropwizard rest service for selling online video advertisements.
 The web Client for the service is: Mozilla Firefox  or Chrome, the service accepts/repond in JSON format.
 
 Application Description: 
