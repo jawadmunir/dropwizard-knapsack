@@ -23,7 +23,7 @@ SEND THE REQUEST TO THE dropwizard SERVICE.
 
 
 Please Note: 
-for simplicity purposes, I have choosen to send the maximum impression per month in the URL,
+for simplicity purposes, I have chosen to send the maximum impression per month in the URL,
 the variable "maxImpressions=32356000". So to change monthly quota for maximum impressions, please change it in URL. 
 
 For example if monthly quota is: 50000000 for the same campaigns.json the url will be: 
